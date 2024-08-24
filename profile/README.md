@@ -1,4 +1,4 @@
-ki## Welcome to Community Driven Platform about courses in AI Talent Hub
+## Welcome to Community Driven Platform about courses in AI Talent Hub
 ### Сurrent features
 #### For everyone
 - Registration as talent
